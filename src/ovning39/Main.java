@@ -24,7 +24,7 @@ public class Main {
 
         System.out.println("Here are your 10 numbers: " + Arrays.toString(arrayNum));
         System.out.println("There are " + biggerThanTwo + " numbers bigger than 2");
-        System.out.println("Numbers in reversed order: " + Arrays.toString(reversed));
+        System.out.println("All numbers in reversed order: " + Arrays.toString(reversed));
 
     }
 }
